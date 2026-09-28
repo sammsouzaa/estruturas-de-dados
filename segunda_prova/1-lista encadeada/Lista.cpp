@@ -6,8 +6,8 @@
 
 template <typename T>
 Lista<T>::Lista(){
-  Tamanho = 0;
   Dados = nullptr;
+  Tamanho = 0;
 }
 
 template <typename T>
